@@ -1,0 +1,28 @@
+.modalText {
+    padding-bottom: 10px;
+    font-size: 0.90em;
+}
+.modal-header {
+    border-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+th, td { white-space: nowrap; }
+div.dataTables_wrapper {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.DTFC_LeftBodyLiner {
+    overflow-x: hidden;
+}
+select[multiple], select[size] {
+    min-height: 250px;
+    /* min-width: 100px; */
+}
+
+.settingsButton {
+    padding: 15px;
+    width: 100%;
+    text-align: center;
+}
